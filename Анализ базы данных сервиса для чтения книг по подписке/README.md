@@ -25,4 +25,3 @@
 
 pandas,  Postgre SQL, sqlalchemy
 
-https://github.com/ossa378/Practicum.Projects
