@@ -19,7 +19,7 @@
 
 #### Вывод
 
- - Все табличные данные в порядке. Изменнений и корректировок не вносим. Используем выгруженый файл dash_visits.csv для создания [дашборда](https://public.tableau.com/views/VisitsDashboard_16574803945030/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) в Tableau Public. По итогам работы подготовлена [презентация](https://disk.yandex.ru/i/XHXolJhWLxZduQ) с ответами на вопросы менетжеров.
+ - Все табличные данные в порядке. Изменнений и корректировок не вносим. Используем выгруженый файл dash_visits.csv для создания [дашборда](https://public.tableau.com/views/VisitsDashboard_16574803945030/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) в Tableau Public. По итогам работы подготовлена [презентация](https://disk.yandex.ru/i/XHXolJhWLxZduQ) с ответами на вопросы менеджеров.
 
 #### Статус проекта
 
